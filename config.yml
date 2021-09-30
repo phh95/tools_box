@@ -126,10 +126,10 @@ content:
           description: UI设计师学习交流社区
           url: http://www.uigreat.com/
     - name: 发现产品
-      sites:
-        - name: NEXT
-          description: 不错过任何一个新产品
-          url: http://next.36kr.com/posts
+      sites:     
+        - name: 彭宏豪的个人博客     
+          description: 致力成为国内优质的工具测评媒体      
+          url: https://penghh.fun/     
         - name: 少数派
           description: 高品质数字消费指南
           url: https://sspai.com/
