@@ -14,7 +14,7 @@ url: https://phh95.github.io/tools_box/
 github: "https://github.com/phh95"
 
 # footer message
-footer: © 2021-2021 @phh95
+footer: © 2021-2022 @phh95
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -46,18 +46,18 @@ content:
         - name: qrbtf     
           description: 一个漂亮的二维码生成器        
           url: https://qrbtf.com/           
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
-        - name: 花瓣
-          description: 收集灵感,保存有用的素材
-          url: http://huaban.com/
+        - name: docsmall
+          description: 免费在线图片、Gif 和 PDF 压缩工具    
+          url: https://docsmall.com/    
+        - name: Apowersoft   
+          description: 在线抠图、在线视频编辑、在线 HEIC 转换   
+          url: https://www.apowersoft.cn/remove-background-online    
+        - name: 剪映字幕导出工具
+          description: 将剪映字幕导出为 srt 文件   
+          url: https://jy.mzh.ren/    
+        - name: crossub
+          description: 将 srt 字幕转换为 FCP 可用的 fcpxml 格式    
+          url: https://crossub.xiaowude.com/   
         - name: 优设
           description: 设计师交流学习平台
           url: http://www.uisdc.com/
